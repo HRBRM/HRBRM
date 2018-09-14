@@ -6,7 +6,7 @@
     ],
     "projectCode":[
         { "id": "1", "value": "prj1"},
-        { "id": "1", "value": "prj2"},
-        { "id": "1", "value": "prj3"}
+        { "id": "2", "value": "prj2"},
+        { "id": "3", "value": "prj3"}
     ]
 }
