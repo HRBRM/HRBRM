@@ -1,0 +1,3 @@
+{
+    "Projectdetails": [{ "id": "1", "projectName": "BW", "projectCode": "prj1", "vp": "matt", "director": "Hari", "usManager": "Renjith", "gtcManager": "Dilip", "organization": "HRB", "lob":"testlob","projectStartDate":"2018-04-04","projectEndDate":"2018-05-05" }, { "id": "2", "projectName": "SLR", "projectCode": "prj2", "vp": "Alan", "director": "Soman", "usManager": "UMA", "gtcManager": "Tebu", "organization": "HRB", "lob":"testlob1","projectStartDate":"2017-10-10","projectEndDate":"2019-05-05" }, { "id": "3", "projectName": "HRBO", "projectCode": "prj3", "vp": "Henry", "director": "Mbape", "usManager": "Salah", "gtcManager": "Laxmi", "organization": "HRB", "lob":"testlob2","projectStartDate":"2016-04-04","projectEndDate":"2020-05-05" }]
+}
