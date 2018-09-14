@@ -1,0 +1,12 @@
+{
+    "projectName": [
+        { "id": "1", "value": "BW"},
+        { "id": "2", "value": "SLR"},
+        { "id": "3", "value": "HRBO"}
+    ],
+    "projectCode":[
+        { "id": "1", "value": "prj1"},
+        { "id": "1", "value": "prj2"},
+        { "id": "1", "value": "prj3"}
+    ]
+}
