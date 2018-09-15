@@ -1,8 +1,8 @@
 {
     "lob": [
-        { "id": "1", "value": "lob1"},
-        { "id": "2", "value": "lob2"},
-        { "id": "3", "value": "lob3"}
+        { "id": "1", "value": "testlob"},
+        { "id": "2", "value": "testlob1"},
+        { "id": "3", "value": "testlob2"}
     ],
     "projectCode":[
         { "id": "1", "value": "prj1"},
