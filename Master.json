@@ -1,12 +1,10 @@
 {
-    "lob": [
+    
         { "id": "1", "value": "testlob"},
         { "id": "2", "value": "testlob1"},
-        { "id": "3", "value": "testlob2"}
-    ],
-    "projectCode":[
+        { "id": "3", "value": "testlob2"},
         { "id": "1", "value": "prj1"},
         { "id": "2", "value": "prj2"},
         { "id": "3", "value": "prj3"}
-    ]
+    
 }
