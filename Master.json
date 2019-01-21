@@ -1,3 +1,4 @@
 {
-   "Mobiledetails": [{ "id": "1", "name": "Nokia", "price": "10000"}, { "id": "2", "name": "MI", "price": "8000"}, { "id": "3", "name": "samsung", "price": "15000" }]
+   "Mobiledetails": [{ "id": "1", "Name": "Apple", "Price": "10000","imageurl":"/assets/iphone.jpg", "rating":"3"},
+                     { "id": "2", "Name": "Samsung", "Price": "20000","imageurl":"/assets/samsung.jpg", "rating":"4.2"}]
 }
